@@ -1,0 +1,26 @@
+{
+  "name": "includes-jamo",
+  "version": "1.0.0",
+  "description": "check if jamo exist in the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "node ./src/includes-jamo-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrontend/includes-jamo.git"
+  },
+  "keywords": [
+    "jamo"
+  ],
+  "author": " <autoscripts@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrontend/includes-jamo/issues"
+  },
+  "homepage": "https://github.com/afrontend/includes-jamo#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
