@@ -1,5 +1,6 @@
 function includesJamo(str, jamo) {
-  return false
+  if (!str || !jamo) return false;
+  return str.includes(jamo)
 }
 
 module.exports = {
