@@ -2,7 +2,7 @@
   "name": "includes-jamo",
   "version": "1.0.0",
   "description": "check if jamo exist in the string",
-  "main": "index.js",
+  "main": "./src/includes-jamo.js",
   "scripts": {
     "test": "mocha",
     "dev": "node ./src/includes-jamo-cli.js"
