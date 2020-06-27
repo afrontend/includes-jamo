@@ -1,6 +1,6 @@
 {
   "name": "includes-jamo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if jamo exist in the string",
   "main": "./src/includes-jamo.js",
   "scripts": {
